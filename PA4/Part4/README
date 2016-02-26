@@ -1,0 +1,5 @@
+I experienced compilation error when using provided Makefile(in part4 files in course assignment web page)
+So instead of using it, I modified Makefile in part3 by compiling additional files (test-lab-4-b.c and test-lab-4-c.c).
+
+Hence, please use my own Makefile for grading (In Q&A there are several persones experiencing same problems,
+I think provided makefile is wrong)

@@ -1,0 +1,10 @@
+I want to use delay token for PA2 Part3.
+
+And i describe some logging policy because of some ambiguity.
+In PDF, size is the size in bytes of the object that was returned.
+I think it is size that received from end server. So in my program
+save_log function, save log to proxy.log file, save size actually received from end server.
+So if cache hits within an expires time, it writes size as 0,
+and if received 304 Not modified header, it writes size of response header without actual data.
+
+- 20130185 Tae-kyeom, Kim -
