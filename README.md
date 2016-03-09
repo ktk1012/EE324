@@ -1,4 +1,4 @@
-EE324: Network Programming (introduction to distributed systems)
+# EE324: Network Programming (introduction to distributed systems)
  - Programming assignments.
 
 - PA1: Plz tell me my password
